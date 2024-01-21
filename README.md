@@ -7,7 +7,10 @@
 
 ## ADMINS | LAIKA, GAMMY
 
-### Rules can be found on 
+### Rules can be found on the discord, but basic ones arrreeee
+- Don't be mean :/
+- Feel free to ask us or gammy abt anything you wanna do, namely asking for items and such that would suck to grind. grind bad skull emoji
+- be sillayyyy :3
 
 # Gammacraft-Plugins-List
 
