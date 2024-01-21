@@ -15,5 +15,7 @@
 ## Waypoints
 ### Waypoints system allowing for setting up both public and private teleportation points, all accessible via commands.
 **/wp add** adds a given waypoint. EX: [/wp add TEST pub] would add a waypoint at your coordinates named TEST, and [/wp add TEST] (without the "pub") would add it to a player only private list
+
 **/wp rm** is used to remove a given public or private lists following the same rules as /wp add. This seems to be available for either everyone or no one, so be nice yall, honor system.
+
 **/wp tp** is used to teleport to a given waypoint. EX: [/wp tp TEST pub] would teleport you to the public waypoint named TEST. Same rules as **/wp add** in regards to private waypoints
