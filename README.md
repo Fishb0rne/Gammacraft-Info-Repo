@@ -29,7 +29,5 @@
 EX: [/Lore Test Test Test | Test Test Test | ABC ABC ABC] would change the tooltip of the item in your hand to be
 
 Test Test Test
-
 Test Test Test
-
 ABC ABC ABC
