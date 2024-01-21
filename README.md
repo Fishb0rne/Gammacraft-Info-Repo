@@ -19,3 +19,17 @@
 **/wp rm** is used to remove a given public or private lists following the same rules as /wp add. This seems to be available for either everyone or no one, so be nice yall, honor system.
 
 **/wp tp** is used to teleport to a given waypoint. EX: [/wp tp TEST pub] would teleport you to the public waypoint named TEST. Same rules as **/wp add** in regards to private waypoints
+
+## EpicRename
+### a plugin that allows for the naming, tooltipping, and enchantmenty glowy effecting anything you'd like. Wanna make a silly item? or one personal to you? Use this!
+**/rename** renames the item currently in your hand.
+
+**/lore** "relores" any item, changing it's tooltip to whatever you'd like. Text formatting is a little,, odd. It'll create a continuous line unless you manually break it using |.
+
+EX: [/Lore Test Test Test | Test Test Test | ABC ABC ABC] would change the tooltip of the item in your hand to be
+
+Test Test Test
+
+Test Test Test
+
+ABC ABC ABC
