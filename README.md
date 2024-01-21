@@ -1,3 +1,14 @@
+# SERVER INFO
+## SERVER IP: CHECK ANNOUNCMENTS IN GAMMACORD
+
+## SERVER VERSION: PAPER, 1.20.2, JAVA AND BEDROCK COMPATIBLE
+
+## CLIENTSIDE MODS? YES
+
+## ADMINS | LAIKA, GAMMY
+
+### Rules can be found on 
+
 # Gammacraft-Plugins-List
 
 # Remember: Use the **/Help** command whenever you'd like to see these commands written in game. Some commands are in there rather than here, we just decided to write the majority of the commands here since these would be the ones most used. Feel free to ask us directly if theres information you can't seem to find on a specific command.
