@@ -96,14 +96,12 @@ ABC ABC ABC
 
 
 ## Passive Plugins
-### XPBonus, FishingRewards, Treefeller, Geyser/Floodgate/ViaVersion, VillagerSaver
+### XPBonus, FishingRewards, Treefeller, VillagerSaver
 XPBonus is a passive and universal 3x Experience Multiplier. No more grinding for EXP
 
 FishingRewards is a system to encourage fishing! You can get a small hanbful of bonus items that would otherwise take a lot of adventuring off the island in order to find! If you have any ideas for these "loot boxes" you get from fishing, such as any items that would actively take days to find adventuring, lmk on discord!!!
 
 TreeFeller (ty seb mmwah <3) is a plugin that destroys and bunches up all logs on a tree by breaking it's base. Simple, useful.
-
-Geyser/Floodgate/ViaVersion are all backend plugins allowing for Bedrock clients to join the server!!
 
 Villager Saver allows for Villagers to always turn into zombie villagers where attacked by zombies, bypassing the world's Easy mode 0% chance and changing it to 100%.
 
