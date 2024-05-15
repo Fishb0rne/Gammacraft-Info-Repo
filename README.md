@@ -1,12 +1,35 @@
 server gone o7
 world download files will be here
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 # SERVER INFO
 ## SERVER IP: CHECK ANNOUNCMENTS IN GAMMACORD
 
